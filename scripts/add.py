@@ -29,3 +29,5 @@ def call_sport():
         response[name] = sport
         write_json(response)
 
+call_sport
+
